@@ -1,2 +1,2 @@
 # amazon_spider
-scrapy spider to get information from amazon. it uses scrapy and selenium
+scrapy spider to get information from amazon, wlamart, sears and hayneedle. it uses scrapy and selenium
